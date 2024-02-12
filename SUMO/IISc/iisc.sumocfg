@@ -1,0 +1,15 @@
+<configuration>
+	<input>
+		<net-file value="Input_File\IISC\IISC.net.xml" />
+		<route-files value="Output_File\IISC\iisc.trips.xml" />
+	</input>
+	<processing>
+		<time-to-teleport value="3600" />
+		<ignore-route-errors value="True" />
+		<tls.actuated.jam-threshold value="30" />
+	</processing>
+	<routing>
+		<device.rerouting.adaptation-steps value="1800" />
+		<device.rerouting.adaptation-interval value="10" />
+	</routing>
+</configuration>
