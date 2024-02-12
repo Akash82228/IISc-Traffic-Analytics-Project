@@ -24,9 +24,9 @@ config = {
     'EPOCHS': 195,
     'WEIGHT_DECAY': 5e-5,
     'INITIAL_LR': 3e-5,
-    'LOG_DIR': '/home/akashs/codes/Final_Pipeline_Node_level_ST_GAT/runs',  
-    'CHECKPOINT_DIR': '/home/akashs/codes/Final_Pipeline_Node_level_ST_GAT/Checkpoints',
-    'ERRORS_DIR': "/home/akashs/codes/Final_Pipeline_Node_level_ST_GAT/Errors",
+    'LOG_DIR': './runs',  
+    'CHECKPOINT_DIR': './Checkpoints',
+    'ERRORS_DIR': "./Errors",
     'N_PRED': 15,      
     'N_HIST': 60,  
     'DROPOUT': 0.2,
@@ -40,7 +40,7 @@ writer = SummaryWriter(log_dir=config["LOG_DIR"])
 torch.cuda.empty_cache()
 
 # Dataloader
-dataset = SumoTrafficDataset(root='/home/akashs/codes/Final_Pipeline_Node_level_ST_GAT/sumo_dataset', hist=config["N_HIST"], fut=config["N_PRED"])
+dataset = SumoTrafficDataset(root='./sumo_dataset', hist=config["N_HIST"], fut=config["N_PRED"])
 
 #NOTE: Debug for the custom Py-G dataloader
 print(f"This is the type of dataset: {type(dataset)}")
