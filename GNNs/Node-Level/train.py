@@ -94,29 +94,32 @@ def train_script(train_dataloader, val_dataloader, config, writer):
             # After the enumerate loop calculate the overall loss for 1 epoch and print it if necassary:
             avg_loss = total_loss / len(train_dataloader)
             print(f"Average Loss: {avg_loss:.3f} for Epoch: {epoch}, now logging the values for train and val on tensorboard ...")
+            
+            if(config["DEBUG"] == False):
+            
+                # Log the values for the training dataset:
+                mae_train, rmse_train, mape_train, _, _ = eval(model=model, dataloader=train_dataloader, type="Train", config=config, logging=False)
+                train_logger(writer, description="Train/MAE", x=mae_train, y=epoch)
+                train_logger(writer, description="Train/RMSE", x=rmse_train, y=epoch)
+                train_logger(writer, description="Train/MAPE", x=mape_train, y=epoch)
 
-            # Log the values for the training dataset:
-            mae_train, rmse_train, mape_train, _, _ = eval(model=model, dataloader=train_dataloader, type="Train", config=config, logging=False)
-            train_logger(writer, description="Train/MAE", x=mae_train, y=epoch)
-            train_logger(writer, description="Train/RMSE", x=rmse_train, y=epoch)
-            train_logger(writer, description="Train/MAPE", x=mape_train, y=epoch)
+                # Log the values for validation dataset:
+                mae_val, rmse_val, mape_val, _, _ = eval(model=model, dataloader=val_dataloader, type="Validation", config=config, logging=False)
+                train_logger(writer, description="Validation/MAE", x=mae_val, y=epoch)
+                train_logger(writer, description="Validation/RMSE", x=rmse_val, y=epoch)
+                train_logger(writer, description="Validation/MAPE", x=mape_val, y=epoch)
 
-            # Log the values for validation dataset:
-            mae_val, rmse_val, mape_val, _, _ = eval(model=model, dataloader=val_dataloader, type="Validation", config=config, logging=False)
-            train_logger(writer, description="Validation/MAE", x=mae_val, y=epoch)
-            train_logger(writer, description="Validation/RMSE", x=rmse_val, y=epoch)
-            train_logger(writer, description="Validation/MAPE", x=mape_val, y=epoch)
+    if(config["DEBUG"] == False):
+        # Save the model at the end of training
+        timestr = time.strftime("%Y%m%d-%H%M%S")
+        torch.save({
+            "epoch": epoch,
+            "model_state_dict": model.state_dict(),
+            "optimizer_state_dict": optimizer.state_dict(),
+            "loss": loss,
+        }, os.path.join(config["CHECKPOINT_DIR"], f"model_{timestr}_{epoch}.pt"))
 
-    # Save the model at the end of training
-    timestr = time.strftime("%Y%m%d-%H%M%S")
-    torch.save({
-        "epoch": epoch,
-        "model_state_dict": model.state_dict(),
-        "optimizer_state_dict": optimizer.state_dict(),
-        "loss": loss,
-    }, os.path.join(config["CHECKPOINT_DIR"], f"model_{timestr}_{epoch}.pt"))
-
-    checkpoint_dir = config["CHECKPOINT_DIR"]
-    print(f"Model Weights saved as: {timestr} at {checkpoint_dir}")
+        checkpoint_dir = config["CHECKPOINT_DIR"]
+        print(f"Model Weights saved as: {timestr} at {checkpoint_dir}")
 
     return model

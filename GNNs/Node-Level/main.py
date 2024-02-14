@@ -21,7 +21,7 @@ if(model_name not in model_list):
 config = {
     "DEVICE": device,
     'BATCH_SIZE': 512,
-    'EPOCHS': 195,
+    'EPOCHS': 1,
     'WEIGHT_DECAY': 5e-5,
     'INITIAL_LR': 3e-5,
     'LOG_DIR': './runs',  
@@ -32,7 +32,8 @@ config = {
     'DROPOUT': 0.2,
     'N_NODE': 20,
     "MODEL": model_name,
-    "N_LOGGING_STEPS": 1
+    "N_LOGGING_STEPS": 1,
+    "DEBUG": True # If True than there will be no Tensorboard logging and weights will not be saved!
 }
 
 writer = SummaryWriter(log_dir=config["LOG_DIR"])
