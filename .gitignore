@@ -1,7 +1,8 @@
-./IISc-Traffic-Analytics-Project/GNNs/Node-Level/runs
-./IISc-Traffic-Analytics-Project/GNNs/Node-Level/Errors
-./IISc-Traffic-Analytics-Project/GNNs/Node-Level/Checkpoints
-./IISc-Traffic-Analytics-Project/GNNs/Node-Level/sumo_dataset/processed
-./IISc-Traffic-Analytics-Project/GNNs/Node-Level/models/__pycache__/
-./IISc-Traffic-Analytics-Project/GNNs/Node-Level/__pycache__/
-./IISc-Traffic-Analytics-Project/GNNs/Node-Level/data_loader/__pycache__/
+GNNs/Node-Level/runs
+GNNs/Node-Level/Errors
+GNNs/Node-Level/Checkpoints
+GNNs/Node-Level/sumo_dataset/processed
+GNNs/Node-Level/models/__pycache__/
+GNNs/Node-Level/__pycache__/
+GNNs/Node-Level/data_loader/__pycache__/
+GNNs/Node-Level/txt_logging
