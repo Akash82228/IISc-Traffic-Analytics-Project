@@ -1,0 +1,277 @@
+2024-02-15 11:33: Experiment log path in: /home/akashs/codes/IISc-Traffic-Analytics-Project/GNNs/log/DAAGCN/SUMODATA/20240215113350
+2024-02-15 11:33: Epoch 001, Train Loss: 73.8188, Valid Loss: 69.8634, Training Time: 1.0934 secs, Inference Time: 0.1014 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 002, Train Loss: 69.8172, Valid Loss: 65.1707, Training Time: 0.6368 secs, Inference Time: 0.0734 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 003, Train Loss: 64.4377, Valid Loss: 58.9577, Training Time: 0.6329 secs, Inference Time: 0.0734 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 004, Train Loss: 57.4239, Valid Loss: 51.0218, Training Time: 0.6334 secs, Inference Time: 0.0732 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 005, Train Loss: 48.7393, Valid Loss: 41.4848, Training Time: 0.6331 secs, Inference Time: 0.0732 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 006, Train Loss: 40.3370, Valid Loss: 35.4213, Training Time: 0.6233 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 007, Train Loss: 37.8032, Valid Loss: 35.1114, Training Time: 0.5884 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 008, Train Loss: 37.4958, Valid Loss: 34.7063, Training Time: 0.6361 secs, Inference Time: 0.0734 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 009, Train Loss: 37.1657, Valid Loss: 34.2861, Training Time: 0.6332 secs, Inference Time: 0.0730 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 010, Train Loss: 36.9866, Valid Loss: 34.0480, Training Time: 0.6307 secs, Inference Time: 0.0731 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 011, Train Loss: 36.6213, Valid Loss: 33.8234, Training Time: 0.6316 secs, Inference Time: 0.0740 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 012, Train Loss: 36.2046, Valid Loss: 33.1285, Training Time: 0.6312 secs, Inference Time: 0.0730 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:33: Epoch 013, Train Loss: 35.7757, Valid Loss: 32.6096, Training Time: 0.6336 secs, Inference Time: 0.0729 secs.
+2024-02-15 11:33: Current best model saved!
+2024-02-15 11:34: Epoch 014, Train Loss: 35.3236, Valid Loss: 32.2955, Training Time: 0.6357 secs, Inference Time: 0.0759 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 015, Train Loss: 35.1308, Valid Loss: 32.5661, Training Time: 0.6343 secs, Inference Time: 0.0735 secs.
+2024-02-15 11:34: Epoch 016, Train Loss: 34.8918, Valid Loss: 31.5776, Training Time: 0.6317 secs, Inference Time: 0.0732 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 017, Train Loss: 34.3866, Valid Loss: 31.2634, Training Time: 0.6318 secs, Inference Time: 0.0735 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 018, Train Loss: 34.0432, Valid Loss: 31.0604, Training Time: 0.6327 secs, Inference Time: 0.0731 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 019, Train Loss: 33.6062, Valid Loss: 30.2160, Training Time: 0.6365 secs, Inference Time: 0.0735 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 020, Train Loss: 32.9403, Valid Loss: 29.3988, Training Time: 0.6314 secs, Inference Time: 0.0729 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 021, Train Loss: 32.1410, Valid Loss: 28.9994, Training Time: 0.6339 secs, Inference Time: 0.0734 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 022, Train Loss: 31.8025, Valid Loss: 28.5283, Training Time: 0.6325 secs, Inference Time: 0.0733 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 023, Train Loss: 31.9542, Valid Loss: 28.0474, Training Time: 0.6322 secs, Inference Time: 0.0730 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 024, Train Loss: 30.7959, Valid Loss: 27.2856, Training Time: 0.6315 secs, Inference Time: 0.0731 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 025, Train Loss: 29.9728, Valid Loss: 26.6784, Training Time: 0.6326 secs, Inference Time: 0.0736 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 026, Train Loss: 29.5015, Valid Loss: 26.0533, Training Time: 0.6351 secs, Inference Time: 0.0735 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 027, Train Loss: 28.9999, Valid Loss: 25.5982, Training Time: 0.6323 secs, Inference Time: 0.0735 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 028, Train Loss: 28.3959, Valid Loss: 31.0338, Training Time: 0.6317 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:34: Epoch 029, Train Loss: 28.6837, Valid Loss: 24.4244, Training Time: 0.5833 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 030, Train Loss: 27.3775, Valid Loss: 24.0074, Training Time: 0.5837 secs, Inference Time: 0.0765 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 031, Train Loss: 27.0174, Valid Loss: 23.4263, Training Time: 0.5840 secs, Inference Time: 0.0758 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 032, Train Loss: 26.6211, Valid Loss: 23.5384, Training Time: 0.5838 secs, Inference Time: 0.0760 secs.
+2024-02-15 11:34: Epoch 033, Train Loss: 26.4270, Valid Loss: 23.1582, Training Time: 0.5837 secs, Inference Time: 0.0762 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 034, Train Loss: 25.7974, Valid Loss: 22.4763, Training Time: 0.5829 secs, Inference Time: 0.0763 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 035, Train Loss: 25.4209, Valid Loss: 22.3978, Training Time: 0.5849 secs, Inference Time: 0.0763 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 036, Train Loss: 25.1417, Valid Loss: 21.9190, Training Time: 0.5833 secs, Inference Time: 0.0763 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 037, Train Loss: 25.0196, Valid Loss: 21.7495, Training Time: 0.5845 secs, Inference Time: 0.0759 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 038, Train Loss: 24.7567, Valid Loss: 21.9078, Training Time: 0.5839 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:34: Epoch 039, Train Loss: 24.4616, Valid Loss: 21.3660, Training Time: 0.5839 secs, Inference Time: 0.0765 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 040, Train Loss: 24.4769, Valid Loss: 21.3000, Training Time: 0.5844 secs, Inference Time: 0.0756 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 041, Train Loss: 24.2098, Valid Loss: 21.2508, Training Time: 0.5848 secs, Inference Time: 0.0765 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 042, Train Loss: 23.9314, Valid Loss: 20.9681, Training Time: 0.5839 secs, Inference Time: 0.0757 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 043, Train Loss: 23.9364, Valid Loss: 21.0966, Training Time: 0.5853 secs, Inference Time: 0.0763 secs.
+2024-02-15 11:34: Epoch 044, Train Loss: 23.8193, Valid Loss: 21.1306, Training Time: 0.5833 secs, Inference Time: 0.0763 secs.
+2024-02-15 11:34: Epoch 045, Train Loss: 23.6572, Valid Loss: 20.7333, Training Time: 0.5843 secs, Inference Time: 0.0761 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 046, Train Loss: 23.4664, Valid Loss: 20.7554, Training Time: 0.5843 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:34: Epoch 047, Train Loss: 23.4207, Valid Loss: 20.6906, Training Time: 0.5839 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 048, Train Loss: 23.3122, Valid Loss: 20.7278, Training Time: 0.5844 secs, Inference Time: 0.0763 secs.
+2024-02-15 11:34: Epoch 049, Train Loss: 23.2391, Valid Loss: 20.5972, Training Time: 0.5850 secs, Inference Time: 0.0765 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 050, Train Loss: 23.1454, Valid Loss: 20.5756, Training Time: 0.5876 secs, Inference Time: 0.0759 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 051, Train Loss: 22.9877, Valid Loss: 20.5322, Training Time: 0.5845 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 052, Train Loss: 22.9939, Valid Loss: 20.5672, Training Time: 0.5907 secs, Inference Time: 0.0773 secs.
+2024-02-15 11:34: Epoch 053, Train Loss: 22.9884, Valid Loss: 20.5641, Training Time: 0.5852 secs, Inference Time: 0.0764 secs.
+2024-02-15 11:34: Epoch 054, Train Loss: 22.9267, Valid Loss: 20.5564, Training Time: 0.5850 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:34: Epoch 055, Train Loss: 22.8164, Valid Loss: 20.6729, Training Time: 0.5848 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:34: Epoch 056, Train Loss: 22.8192, Valid Loss: 20.5566, Training Time: 0.5844 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:34: Epoch 057, Train Loss: 22.7242, Valid Loss: 20.5986, Training Time: 0.5845 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:34: Epoch 058, Train Loss: 22.7625, Valid Loss: 20.6869, Training Time: 0.5848 secs, Inference Time: 0.0840 secs.
+2024-02-15 11:34: Epoch 059, Train Loss: 22.6472, Valid Loss: 20.6778, Training Time: 0.5861 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:34: Epoch 060, Train Loss: 22.6734, Valid Loss: 20.6317, Training Time: 0.5849 secs, Inference Time: 0.0760 secs.
+2024-02-15 11:34: Epoch 061, Train Loss: 22.6845, Valid Loss: 20.5680, Training Time: 0.5842 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:34: Epoch 062, Train Loss: 22.6015, Valid Loss: 20.5917, Training Time: 0.5849 secs, Inference Time: 0.0762 secs.
+2024-02-15 11:34: Epoch 063, Train Loss: 22.5553, Valid Loss: 20.6514, Training Time: 0.5853 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:34: Epoch 064, Train Loss: 22.5125, Valid Loss: 20.3995, Training Time: 0.5845 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 065, Train Loss: 22.5093, Valid Loss: 20.5700, Training Time: 0.5891 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:34: Epoch 066, Train Loss: 22.3926, Valid Loss: 20.6980, Training Time: 0.5881 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:34: Epoch 067, Train Loss: 22.3673, Valid Loss: 20.5643, Training Time: 0.5876 secs, Inference Time: 0.0765 secs.
+2024-02-15 11:34: Epoch 068, Train Loss: 23.0910, Valid Loss: 21.1718, Training Time: 0.5943 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:34: Epoch 069, Train Loss: 23.0232, Valid Loss: 20.1608, Training Time: 0.5885 secs, Inference Time: 0.0774 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 070, Train Loss: 22.4559, Valid Loss: 20.2743, Training Time: 0.5886 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:34: Epoch 071, Train Loss: 22.4685, Valid Loss: 20.3382, Training Time: 0.5880 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:34: Epoch 072, Train Loss: 22.4967, Valid Loss: 20.1644, Training Time: 0.5864 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:34: Epoch 073, Train Loss: 22.3855, Valid Loss: 20.1210, Training Time: 0.5899 secs, Inference Time: 0.0763 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 074, Train Loss: 22.3622, Valid Loss: 20.0252, Training Time: 0.5885 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 075, Train Loss: 22.2464, Valid Loss: 19.9904, Training Time: 0.5883 secs, Inference Time: 0.0775 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 076, Train Loss: 22.1605, Valid Loss: 19.8488, Training Time: 0.5884 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 077, Train Loss: 22.1065, Valid Loss: 19.9644, Training Time: 0.5876 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:34: Epoch 078, Train Loss: 22.1936, Valid Loss: 20.1043, Training Time: 0.5896 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:34: Epoch 079, Train Loss: 22.3298, Valid Loss: 20.0245, Training Time: 0.5889 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:34: Epoch 080, Train Loss: 22.2087, Valid Loss: 19.8348, Training Time: 0.5873 secs, Inference Time: 0.0761 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 081, Train Loss: 22.0430, Valid Loss: 19.7268, Training Time: 0.5873 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 082, Train Loss: 21.9228, Valid Loss: 19.6596, Training Time: 0.5879 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 083, Train Loss: 21.9433, Valid Loss: 19.6289, Training Time: 0.5883 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 084, Train Loss: 21.9845, Valid Loss: 19.6263, Training Time: 0.5872 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 085, Train Loss: 21.8950, Valid Loss: 19.6524, Training Time: 0.5913 secs, Inference Time: 0.0777 secs.
+2024-02-15 11:34: Epoch 086, Train Loss: 21.8683, Valid Loss: 19.6636, Training Time: 0.5899 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:34: Epoch 087, Train Loss: 21.8375, Valid Loss: 19.5862, Training Time: 0.5886 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 088, Train Loss: 21.8404, Valid Loss: 19.6275, Training Time: 0.5887 secs, Inference Time: 0.0775 secs.
+2024-02-15 11:34: Epoch 089, Train Loss: 21.7888, Valid Loss: 19.6294, Training Time: 0.5869 secs, Inference Time: 0.0774 secs.
+2024-02-15 11:34: Epoch 090, Train Loss: 21.7826, Valid Loss: 19.6085, Training Time: 0.5879 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:34: Epoch 091, Train Loss: 21.6456, Valid Loss: 19.7014, Training Time: 0.5869 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:34: Epoch 092, Train Loss: 21.8799, Valid Loss: 19.5501, Training Time: 0.5876 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 093, Train Loss: 21.7293, Valid Loss: 19.6476, Training Time: 0.5905 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:34: Epoch 094, Train Loss: 21.6988, Valid Loss: 19.5136, Training Time: 0.5926 secs, Inference Time: 0.0777 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 095, Train Loss: 21.7682, Valid Loss: 19.5520, Training Time: 0.5885 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:34: Epoch 096, Train Loss: 21.5488, Valid Loss: 19.4927, Training Time: 0.5888 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 097, Train Loss: 21.6387, Valid Loss: 19.4193, Training Time: 0.5873 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 098, Train Loss: 21.6354, Valid Loss: 19.6501, Training Time: 0.5904 secs, Inference Time: 0.0765 secs.
+2024-02-15 11:34: Epoch 099, Train Loss: 21.7630, Valid Loss: 19.5217, Training Time: 0.5877 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:34: Epoch 100, Train Loss: 21.5844, Valid Loss: 19.4232, Training Time: 0.5934 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:34: Epoch 101, Train Loss: 21.3913, Valid Loss: 19.3851, Training Time: 0.5905 secs, Inference Time: 0.0773 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:34: Epoch 102, Train Loss: 21.5147, Valid Loss: 19.3595, Training Time: 0.5903 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:34: Current best model saved!
+2024-02-15 11:35: Epoch 103, Train Loss: 21.3905, Valid Loss: 19.3931, Training Time: 0.5898 secs, Inference Time: 0.0776 secs.
+2024-02-15 11:35: Epoch 104, Train Loss: 21.3455, Valid Loss: 19.4219, Training Time: 0.5876 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:35: Epoch 105, Train Loss: 21.2799, Valid Loss: 19.4069, Training Time: 0.5902 secs, Inference Time: 0.0778 secs.
+2024-02-15 11:35: Epoch 106, Train Loss: 21.2243, Valid Loss: 19.3567, Training Time: 0.5888 secs, Inference Time: 0.0776 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 107, Train Loss: 21.3432, Valid Loss: 19.3530, Training Time: 0.5889 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 108, Train Loss: 21.3683, Valid Loss: 19.2284, Training Time: 0.5896 secs, Inference Time: 0.0778 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 109, Train Loss: 21.1825, Valid Loss: 19.2514, Training Time: 0.5895 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:35: Epoch 110, Train Loss: 21.1799, Valid Loss: 19.2058, Training Time: 0.5894 secs, Inference Time: 0.0765 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 111, Train Loss: 21.2625, Valid Loss: 19.3456, Training Time: 0.5900 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:35: Epoch 112, Train Loss: 21.2871, Valid Loss: 19.2627, Training Time: 0.5873 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:35: Epoch 113, Train Loss: 21.0571, Valid Loss: 19.2913, Training Time: 0.5881 secs, Inference Time: 0.0765 secs.
+2024-02-15 11:35: Epoch 114, Train Loss: 21.2492, Valid Loss: 19.2235, Training Time: 0.5871 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:35: Epoch 115, Train Loss: 20.6710, Valid Loss: 19.2070, Training Time: 0.5899 secs, Inference Time: 0.0773 secs.
+2024-02-15 11:35: Epoch 116, Train Loss: 21.2620, Valid Loss: 18.5681, Training Time: 0.5890 secs, Inference Time: 0.0778 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 117, Train Loss: 20.6947, Valid Loss: 18.5477, Training Time: 0.5923 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 118, Train Loss: 20.9435, Valid Loss: 18.6769, Training Time: 0.5938 secs, Inference Time: 0.0775 secs.
+2024-02-15 11:35: Epoch 119, Train Loss: 20.4814, Valid Loss: 19.5484, Training Time: 0.5884 secs, Inference Time: 0.0774 secs.
+2024-02-15 11:35: Epoch 120, Train Loss: 20.3739, Valid Loss: 18.5748, Training Time: 0.5923 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:35: Epoch 121, Train Loss: 20.3279, Valid Loss: 19.2591, Training Time: 0.5885 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Epoch 122, Train Loss: 21.6523, Valid Loss: 18.8560, Training Time: 0.5888 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:35: Epoch 123, Train Loss: 20.9378, Valid Loss: 19.0370, Training Time: 0.5892 secs, Inference Time: 0.0773 secs.
+2024-02-15 11:35: Epoch 124, Train Loss: 20.5572, Valid Loss: 18.7008, Training Time: 0.5874 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:35: Epoch 125, Train Loss: 20.2077, Valid Loss: 18.5701, Training Time: 0.5868 secs, Inference Time: 0.0773 secs.
+2024-02-15 11:35: Epoch 126, Train Loss: 20.3326, Valid Loss: 18.7281, Training Time: 0.5889 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Epoch 127, Train Loss: 20.3391, Valid Loss: 18.6143, Training Time: 0.5884 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:35: Epoch 128, Train Loss: 20.0786, Valid Loss: 19.0140, Training Time: 0.5877 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:35: Epoch 129, Train Loss: 20.5043, Valid Loss: 18.5345, Training Time: 0.5883 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 130, Train Loss: 20.5300, Valid Loss: 18.5876, Training Time: 0.5894 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:35: Epoch 131, Train Loss: 20.3216, Valid Loss: 18.5882, Training Time: 0.5879 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:35: Epoch 132, Train Loss: 20.9397, Valid Loss: 18.9778, Training Time: 0.5876 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:35: Epoch 133, Train Loss: 20.3295, Valid Loss: 18.5124, Training Time: 0.5882 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 134, Train Loss: 20.2451, Valid Loss: 18.4651, Training Time: 0.5898 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 135, Train Loss: 21.4495, Valid Loss: 19.8232, Training Time: 0.5882 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:35: Epoch 136, Train Loss: 21.6825, Valid Loss: 19.6856, Training Time: 0.5876 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:35: Epoch 137, Train Loss: 20.8936, Valid Loss: 18.6903, Training Time: 0.5895 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:35: Epoch 138, Train Loss: 19.8349, Valid Loss: 18.4365, Training Time: 0.5892 secs, Inference Time: 0.0765 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 139, Train Loss: 20.2129, Valid Loss: 18.3561, Training Time: 0.5901 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 140, Train Loss: 20.5377, Valid Loss: 19.0371, Training Time: 0.5893 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:35: Epoch 141, Train Loss: 20.2857, Valid Loss: 18.4200, Training Time: 0.5877 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:35: Epoch 142, Train Loss: 20.1014, Valid Loss: 18.2407, Training Time: 0.5878 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 143, Train Loss: 20.0700, Valid Loss: 18.6418, Training Time: 0.5866 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:35: Epoch 144, Train Loss: 19.9071, Valid Loss: 18.3245, Training Time: 0.5874 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:35: Epoch 145, Train Loss: 20.4936, Valid Loss: 18.6057, Training Time: 0.5873 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Epoch 146, Train Loss: 20.2562, Valid Loss: 18.5334, Training Time: 0.5883 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:35: Epoch 147, Train Loss: 20.1558, Valid Loss: 18.4157, Training Time: 0.5875 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:35: Epoch 148, Train Loss: 19.9894, Valid Loss: 18.7641, Training Time: 0.5889 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:35: Epoch 149, Train Loss: 20.1605, Valid Loss: 18.7241, Training Time: 0.5875 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:35: Epoch 150, Train Loss: 19.9676, Valid Loss: 18.3472, Training Time: 0.5868 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:35: Epoch 151, Train Loss: 20.0232, Valid Loss: 18.5277, Training Time: 0.5875 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:35: Epoch 152, Train Loss: 19.8999, Valid Loss: 18.4362, Training Time: 0.5869 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Epoch 153, Train Loss: 19.8772, Valid Loss: 18.2110, Training Time: 0.5872 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 154, Train Loss: 19.9220, Valid Loss: 19.1376, Training Time: 0.5889 secs, Inference Time: 0.0765 secs.
+2024-02-15 11:35: Epoch 155, Train Loss: 19.9798, Valid Loss: 18.1007, Training Time: 0.5897 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:35: Current best model saved!
+2024-02-15 11:35: Epoch 156, Train Loss: 20.4088, Valid Loss: 19.3052, Training Time: 0.5891 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Epoch 157, Train Loss: 20.2340, Valid Loss: 18.3497, Training Time: 0.5879 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Epoch 158, Train Loss: 20.0085, Valid Loss: 18.3072, Training Time: 0.5876 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:35: Epoch 159, Train Loss: 19.8787, Valid Loss: 18.4016, Training Time: 0.5891 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:35: Epoch 160, Train Loss: 20.5214, Valid Loss: 18.4353, Training Time: 0.5890 secs, Inference Time: 0.0773 secs.
+2024-02-15 11:35: Epoch 161, Train Loss: 20.0177, Valid Loss: 18.4245, Training Time: 0.5903 secs, Inference Time: 0.0775 secs.
+2024-02-15 11:35: Epoch 162, Train Loss: 19.9147, Valid Loss: 18.2262, Training Time: 0.5894 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Epoch 163, Train Loss: 19.6575, Valid Loss: 18.3842, Training Time: 0.5888 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Epoch 164, Train Loss: 20.0770, Valid Loss: 18.4560, Training Time: 0.5883 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:35: Epoch 165, Train Loss: 19.7876, Valid Loss: 18.3175, Training Time: 0.5884 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:35: Epoch 166, Train Loss: 20.1212, Valid Loss: 18.5557, Training Time: 0.5882 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:35: Epoch 167, Train Loss: 20.1621, Valid Loss: 18.5215, Training Time: 0.5872 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Epoch 168, Train Loss: 20.1917, Valid Loss: 18.4333, Training Time: 0.5883 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:35: Epoch 169, Train Loss: 19.8978, Valid Loss: 18.3709, Training Time: 0.5875 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:35: Epoch 170, Train Loss: 19.8043, Valid Loss: 18.2756, Training Time: 0.5888 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:35: Epoch 171, Train Loss: 20.2270, Valid Loss: 18.7716, Training Time: 0.5864 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:35: Epoch 172, Train Loss: 20.2839, Valid Loss: 18.3808, Training Time: 0.5866 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:35: Epoch 173, Train Loss: 19.8251, Valid Loss: 18.4530, Training Time: 0.5868 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:35: Epoch 174, Train Loss: 20.3274, Valid Loss: 18.6476, Training Time: 0.5870 secs, Inference Time: 0.0766 secs.
+2024-02-15 11:35: Epoch 175, Train Loss: 20.2091, Valid Loss: 18.5013, Training Time: 0.5870 secs, Inference Time: 0.0771 secs.
+2024-02-15 11:35: Epoch 176, Train Loss: 20.2312, Valid Loss: 18.6170, Training Time: 0.5870 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:35: Epoch 177, Train Loss: 20.1474, Valid Loss: 18.4770, Training Time: 0.5864 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:35: Epoch 178, Train Loss: 19.9440, Valid Loss: 18.3045, Training Time: 0.5881 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:35: Epoch 179, Train Loss: 19.9708, Valid Loss: 18.2561, Training Time: 0.5884 secs, Inference Time: 0.0767 secs.
+2024-02-15 11:35: Epoch 180, Train Loss: 20.0424, Valid Loss: 18.4723, Training Time: 0.5880 secs, Inference Time: 0.0768 secs.
+2024-02-15 11:35: Epoch 181, Train Loss: 19.7604, Valid Loss: 18.3376, Training Time: 0.5984 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:35: Epoch 182, Train Loss: 19.8826, Valid Loss: 18.2404, Training Time: 0.5865 secs, Inference Time: 0.0769 secs.
+2024-02-15 11:35: Epoch 183, Train Loss: 20.0755, Valid Loss: 18.1517, Training Time: 0.5865 secs, Inference Time: 0.0772 secs.
+2024-02-15 11:35: Epoch 184, Train Loss: 19.8431, Valid Loss: 18.2499, Training Time: 0.5878 secs, Inference Time: 0.0770 secs.
+2024-02-15 11:35: Epoch 185, Train Loss: 19.9465, Valid Loss: 18.6923, Training Time: 0.5892 secs, Inference Time: 0.0775 secs.
+2024-02-15 11:35: Validation performance didn't improve for 30 epochs. Training stops.
+2024-02-15 11:35: Total training time: 2.0887 min, best loss: 18.100744
+2024-02-15 11:35: Saving current best model to /home/akashs/codes/IISc-Traffic-Analytics-Project/GNNs/log/DAAGCN/SUMODATA/20240215113350/SUMODATA_DAAGCN_best_model.pth
+2024-02-15 11:35: Horizon 01, MAE: 18.63, RMSE: 33.44, MAPE: 25.8615%
+2024-02-15 11:35: Horizon 02, MAE: 16.25, RMSE: 28.61, MAPE: 24.6072%
+2024-02-15 11:35: Horizon 03, MAE: 19.12, RMSE: 34.38, MAPE: 24.9714%
+2024-02-15 11:35: Horizon 04, MAE: 20.15, RMSE: 38.88, MAPE: 28.0081%
+2024-02-15 11:35: Horizon 05, MAE: 15.35, RMSE: 27.50, MAPE: 21.8526%
+2024-02-15 11:35: Horizon 06, MAE: 12.17, RMSE: 19.68, MAPE: 20.5922%
+2024-02-15 11:35: Horizon 07, MAE: 10.57, RMSE: 16.31, MAPE: 26.8646%
+2024-02-15 11:35: Horizon 08, MAE: 16.02, RMSE: 27.50, MAPE: 22.3621%
+2024-02-15 11:35: Horizon 09, MAE: 30.79, RMSE: 57.76, MAPE: 32.6528%
+2024-02-15 11:35: Horizon 10, MAE: 26.65, RMSE: 53.47, MAPE: 33.8401%
+2024-02-15 11:35: Horizon 11, MAE: 39.35, RMSE: 76.99, MAPE: 45.9088%
+2024-02-15 11:35: Horizon 12, MAE: 41.06, RMSE: 76.00, MAPE: 40.8249%
+2024-02-15 11:35: Average Horizon, MAE: 22.18, RMSE: 45.36, MAPE: 29.0288%

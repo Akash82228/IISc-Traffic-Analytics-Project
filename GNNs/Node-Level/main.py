@@ -20,15 +20,15 @@ if(model_name not in model_list):
 
 config = {
     "DEVICE": device,
-    'BATCH_SIZE': 512,
-    'EPOCHS': 1,
+    'BATCH_SIZE': 128,
+    'EPOCHS': 1000,
     'WEIGHT_DECAY': 5e-5,
     'INITIAL_LR': 3e-5,
     'LOG_DIR': './runs',  
     'CHECKPOINT_DIR': './Checkpoints',
     'ERRORS_DIR': "./Errors",
-    'N_PRED': 15,      
-    'N_HIST': 60,  
+    'N_PRED': 12,      
+    'N_HIST': 12,  
     'DROPOUT': 0.2,
     'N_NODE': 20,
     "MODEL": model_name,
@@ -72,6 +72,13 @@ _, temp_train = next(enumerate(train_dataloader))
 _, temp_test = next(enumerate(test_dataloader))
 _, temp_val = next(enumerate(val_dataloader))
 
+temp_train.x = temp_train.x.view(config["BATCH_SIZE"], 20, 12)
+temp_test.x = temp_test.x.view(config["BATCH_SIZE"], 20, 12)
+temp_val.x = temp_val.x.view(config["BATCH_SIZE"], 20, 12)
+
+print(f"Iterating the first batch from train_loader {temp_train.x.shape}")
+print(f"Iterating the first batch from val_loader {temp_val.x.shape}")
+print(f"Iterating the first batch from test_loader {temp_test.x.shape}")
 
 print(f"Iterating the first batch from train_loader {temp_train}")
 print(f"Iterating the first batch from val_loader {temp_val}")

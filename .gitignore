@@ -6,3 +6,5 @@ GNNs/Node-Level/models/__pycache__/
 GNNs/Node-Level/__pycache__/
 GNNs/Node-Level/data_loader/__pycache__/
 GNNs/Node-Level/txt_logging
+GNNs/DAAGCN/__pycache__
+GNNs/log

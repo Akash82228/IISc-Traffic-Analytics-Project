@@ -1,0 +1,13 @@
+2024-02-19 15:07: Experiment log path in: /home/akashs/codes/IISc-Traffic-Analytics-Project/GNNs/log/DAAGCN/SUMODATA/20240219150715
+2024-02-19 15:07: Epoch 001, Train Loss: 73.8188, Valid Loss: 69.8634, Training Time: 0.8599 secs, Inference Time: 0.0996 secs.
+2024-02-19 15:07: Current best model saved!
+2024-02-19 15:07: Epoch 002, Train Loss: 69.8172, Valid Loss: 65.1707, Training Time: 0.6040 secs, Inference Time: 0.0810 secs.
+2024-02-19 15:07: Current best model saved!
+2024-02-19 15:07: Epoch 003, Train Loss: 64.4377, Valid Loss: 58.9577, Training Time: 0.6036 secs, Inference Time: 0.0797 secs.
+2024-02-19 15:07: Current best model saved!
+2024-02-19 15:07: Epoch 004, Train Loss: 57.4239, Valid Loss: 51.0218, Training Time: 0.6083 secs, Inference Time: 0.0796 secs.
+2024-02-19 15:07: Current best model saved!
+2024-02-19 15:07: Epoch 005, Train Loss: 48.7393, Valid Loss: 41.4848, Training Time: 0.6026 secs, Inference Time: 0.0804 secs.
+2024-02-19 15:07: Current best model saved!
+2024-02-19 15:07: Epoch 006, Train Loss: 40.3370, Valid Loss: 35.4213, Training Time: 0.6055 secs, Inference Time: 0.0798 secs.
+2024-02-19 15:07: Current best model saved!
