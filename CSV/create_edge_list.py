@@ -27,4 +27,5 @@ net_xml_path = '/home/akashs/codes/13-06-24/Cubbon.net.xml'  # Update this path
 output_csv_path = '/home/akashs/codes/node_level_ST_GAT/sumo_dataset/edge_list.csv'  # Output CSV file path
 
 # Call the function with your file paths
+
 extract_edge_list(net_xml_path, output_csv_path)
