@@ -19,5 +19,5 @@ def remove_rows_containing_strings(file_path, column_name, strings_file_path):
     # The index=False argument prevents pandas from writing row indices to the CSV file
     df.to_csv(file_path, index=False)
 
-strings_file_path = 'virtual_edge.csv'  # replace with the path to your CSV file containing the list of strings to find
-remove_rows_containing_strings('edge_list.csv', 'edge', strings_file_path)
+strings_file_path = 'virtual_node.csv'  # replace with the path to your CSV file containing the list of strings to find
+remove_rows_containing_strings('cummulative_count.csv', 'node_ID', strings_file_path)
