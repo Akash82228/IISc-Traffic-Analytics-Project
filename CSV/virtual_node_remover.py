@@ -20,4 +20,4 @@ def remove_rows_containing_strings(file_path, column_name, strings_file_path):
     df.to_csv(file_path, index=False)
 
 strings_file_path = 'virtual_node.csv'  # replace with the path to your CSV file containing the list of strings to find
-remove_rows_containing_strings('testing_data.csv', 'node_ID', strings_file_path)
+remove_rows_containing_strings('cummulative_count.csv', 'node_ID', strings_file_path)
