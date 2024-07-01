@@ -1,0 +1,54 @@
+<?xml version="1.0" ?>
+<edgedata>
+	<interval id="src" begin="82800" end="86400">
+		<edge id="E10SS" value="1"/>
+		<edge id="E11SS" value="1"/>
+		<edge id="E12SS" value="1"/>
+		<edge id="E13XL" value="5"/>
+		<edge id="E15L" value="4"/>
+		<edge id="E16M" value="3"/>
+		<edge id="E17M" value="3"/>
+		<edge id="E18S" value="2"/>
+		<edge id="E19S" value="2"/>
+		<edge id="E2S" value="2"/>
+		<edge id="E20S" value="2"/>
+		<edge id="E21M" value="3"/>
+		<edge id="E22M" value="3"/>
+		<edge id="E24M" value="3"/>
+		<edge id="E26XL" value="5"/>
+		<edge id="E28S" value="2"/>
+		<edge id="E29M" value="3"/>
+		<edge id="E3S" value="2"/>
+		<edge id="E30S" value="2"/>
+		<edge id="E31M" value="3"/>
+		<edge id="E32L" value="4"/>
+		<edge id="E33SS" value="1"/>
+		<edge id="E34SS" value="1"/>
+		<edge id="E4S" value="2"/>
+		<edge id="E5M" value="3"/>
+		<edge id="E6S" value="2"/>
+		<edge id="E7S" value="2"/>
+		<edge id="E8S" value="2"/>
+		<edge id="E9S" value="2"/>
+		<edge id="E14SS" value="1"/>
+		<edge id="E27M" value="3"/>
+		<edge id="E35M" value="3"/>
+		<edge id="E36M" value="3"/>
+		<edge id="E37M" value="3"/>
+		<edge id="E38M" value="3"/>
+		<edge id="E39M" value="3"/>
+		<edge id="E40S" value="2"/>
+		<edge id="E41SS" value="1"/>
+		<edge id="E42SS" value="1"/>
+		<edge id="E43SS" value="1"/>
+		<edge id="E44SS" value="1"/>
+		<edge id="E45S" value="2"/>
+		<edge id="E48S" value="2"/>
+		<edge id="E51S" value="2"/>
+		<edge id="E52S" value="2"/>
+		<edge id="E53L" value="4"/>
+		<edge id="E54L" value="4"/>
+		<edge id="E55L" value="4"/>
+		<edge id="E56L" value="4"/>
+	</interval>
+</edgedata>
