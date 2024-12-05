@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<additional>
+	<rerouter id="REROUTER_249906101" edges="249906101 406674055#1-AddedOffRampEdge" probability="1.0">
+		<interval begin="9:0:0" end="9:30:0">
+			<closingReroute id="249906101" allow=""/>
+		</interval>
+		<interval begin="0:40:0" end="9:30:0">
+			<closingReroute id="249906101" allow=""/>
+		</interval>
+	</rerouter>
+	<rerouter id="REROUTER_378425665" edges="378425665 378425663#0 378425663#0" probability="1.0">
+		<interval begin="1:0:0" end="3:30:0">
+			<closingReroute id="378425665" allow=""/>
+		</interval>
+		<interval begin="3:40:0" end="13:30:0">
+			<closingReroute id="378425665" allow=""/>
+		</interval>
+	</rerouter>
+	<rerouter id="REROUTER_323930524#0" edges="323930524#0 38968993#1 732279135#0" probability="1.0">
+		<interval begin="1:0:0" end="3:30:0">
+			<closingReroute id="323930524#0" allow=""/>
+		</interval>
+		<interval begin="3:40:0" end="13:30:0">
+			<closingReroute id="323930524#0" allow=""/>
+		</interval>
+	</rerouter>
+</additional>

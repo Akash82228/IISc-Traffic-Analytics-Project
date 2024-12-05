@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<configuration>
+	<input>
+		<net-file value="Network\IISC.net.xml"/>
+		<route-files value="Output_File\IISC\trips.trips.xml"/>
+	</input>
+	<processing>
+		<time-to-teleport value="3600"/>
+		<ignore-route-errors value="True"/>
+	</processing>
+	<routing>
+		<device.rerouting.probability value="1"/>
+	</routing>
+</configuration>

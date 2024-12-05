@@ -1,0 +1,7 @@
+<additional>
+<vType id="threewheeler" vClass="custom1" length="2.5" width="1.5" accel="2.0" decel="4.5" sigma="0.5" minGap="0.2" guiShape="rickshaw"  lcsublane="0" lcpushy="0"  lcAssertive="0.0" lcImpatience="0.0" probability="0.2"/>
+<vType id="motorcycle" vClass="motorcycle" accel="3.5" decel="5.0" sigma="0.5" length="2.0" minGap="0.2" maxSpeed="90.0" lcsublane="1" lcpushy="1"  lcAssertive="1.0" lcImpatience="1.0" probability="0.5" lcAccelLat="1.0"/>
+<vType id="bus" vClass="bus" accel="1.0" decel="2.0" sigma="0.5" length="12.0" minGap="1.0" maxSpeed="80.0" lcpushy="0"  lcsublane="0" lcAssertive="0.0" lcImpatience="0.0" probability="0.1"/>
+<vType id="passenger" vClass="passenger" accel="2.6" decel="4.5" sigma="0.5" length="4.5" minGap="0.4" maxSpeed="120.0" lcpushy="0" lcsublane="0" lcAssertive="0.0" lcImpatience="0.0"  probability="0.2"/>
+</additional>
+

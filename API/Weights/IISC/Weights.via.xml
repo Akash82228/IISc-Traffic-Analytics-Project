@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<edgedata>
+	<interval id="via" begin="82800" end="86400">
+		<edge id="-36777680#9" value="30.53892216"/>
+		<edge id="107221158#6" value="23.95209581"/>
+		<edge id="1084220439#0" value="23.95209581"/>
+		<edge id="503491597#1" value="21.55688623"/>
+	</interval>
+</edgedata>
